@@ -10,7 +10,10 @@
   "dependencies": {
     "bootstrap": "^4.6.0",
     "date-fns": "^2.11.1",
+    "formidable": "^1.2.2",
+    "formidable-serverless": "^1.1.1",
     "gray-matter": "^4.0.2",
+    "mongoose": "^5.12.3",
     "next": "^10.0.0",
     "png-js": "^1.0.0",
     "react": "17.0.1",
